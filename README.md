@@ -1,10 +1,10 @@
 # AlphaZero
-A Keras implementation of Google's AlphaZero project on tic-tac-toe, connect-four and reversi. One can add other games by just providing rules and hyperparameters for training.
+A Keras implementation of Google's AlphaZero project on tic-tac-toe, connect-four and reversi. One can add other games by providing rules and hyperparameters for training.
 
 ## Dependencies
-python >= 3.5
-numpy
-Keras with TensorFlow backend
+* python >= 3.5
+* numpy
+* Keras with TensorFlow backend
 
 ## Usage
 ```
